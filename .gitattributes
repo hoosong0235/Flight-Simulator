@@ -1,0 +1,2 @@
+Content/dead_canyon/map/dead_canyon.umap filter=lfs diff=lfs merge=lfs -text
+Content/Main.umap filter=lfs diff=lfs merge=lfs -text
